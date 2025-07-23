@@ -27,9 +27,8 @@ Welcome! This repository documents my personal learning journey into **Machine L
 | Week | Topic / Project | Description | Link |
 |------|------------------|-------------|------|
 | 1 | **Intro to ML & Linear Regression** | Basic regression with real-world housing data |
-| 2 | **Gamma Particle Detection (MC Simulation)** | Classification using Random Forest on telescope simulation data 
-| 3 | **Coming Soon** | Working on classification models & evaluation | 🔄 |
-
+| 2 | **Gamma Particle Detection (MC Simulation)** | Classification using Random Forest on telescope simulation data. |
+| 3 | **Iris Dataset: Sepal Length Prediction using Decision Tree Regression**| Predicting iris sepal length using a Decision Tree Regressor based on other features of the iris flower. |
 ---
 
 ## 📂 Projects
@@ -44,10 +43,10 @@ Welcome! This repository documents my personal learning journey into **Machine L
 - Used scikit-learn to predict target values from basic features
 - Practiced train-test split and performance metrics
 
-# 💡 What's Next?
-- Dive deeper into classification (Logistic Regression, KNN, SVM)
-- Try model deployment (Streamlit or Flask)
-- Explore the basics of NLP or Computer Vision
+# 🔹 [Sapel Length Prediction](link)
+- This project utilizes a Decision Tree Regressor on the Iris dataset to predict sepal length.
+- It walks through data loading, feature definition, model training, prediction, and validation using Mean Absolute Error.
+- The provided notebook guides users through these steps to understand the regression process.
 
 # 📫 Let’s Connect!
 I’m actively looking for:
