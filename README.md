@@ -33,7 +33,7 @@ Welcome! This repository documents my personal learning journey into **Machine L
 
 ## 📂 Projects
 
-# 🔹 [Gamma Particle Classifier](Gama Particle Detection.ipynb)
+# 🔹 [Gamma Particle Classifier](Gamma_Particle_Detection.ipynb)
 - Simulated data from an atmospheric Cherenkov telescope (MC generated)
 - Random Forest model to classify gamma vs hadron events
 - Learned feature engineering, model training, and evaluation
