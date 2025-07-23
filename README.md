@@ -33,7 +33,7 @@ Welcome! This repository documents my personal learning journey into **Machine L
 
 ## 📂 Projects
 
-# 🔹 [Gamma Particle Classifier](link)
+# 🔹 [Gamma Particle Classifier](Gama Particle Detection.ipynb)
 - Simulated data from an atmospheric Cherenkov telescope (MC generated)
 - Random Forest model to classify gamma vs hadron events
 - Learned feature engineering, model training, and evaluation
@@ -43,7 +43,7 @@ Welcome! This repository documents my personal learning journey into **Machine L
 - Used scikit-learn to predict target values from basic features
 - Practiced train-test split and performance metrics
 
-# 🔹 [Sapel Length Prediction](link)
+# 🔹 [Sapel Length Prediction](Iris_Dataset.ipynb)
 - This project utilizes a Decision Tree Regressor on the Iris dataset to predict sepal length.
 - It walks through data loading, feature definition, model training, prediction, and validation using Mean Absolute Error.
 - The provided notebook guides users through these steps to understand the regression process.
